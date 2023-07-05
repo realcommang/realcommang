@@ -25,10 +25,11 @@
 ####  ✏️ Tools
 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-<img src="https://img.shields.io/badge/AndroidStudio-2C2255?style=for-the-badge&logo=AndroidStudio%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/Android Studio-A9225C?style=for-the-badge&logo=Android Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJ-007ACC?style=for-the-badge&logo=IntelliJ&logoColor=white">
-   <br/>
-   <br/>
+<img src="https://img.shields.io/badge/IntelliJIDEA-007ACC?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
+<img src="https://img.shields.io/badge/PyCharm-FF9E0F?style=for-the-badge&logo=PyCharm&logoColor=white">
+
+<br/>
 
 </div>
