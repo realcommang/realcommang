@@ -3,8 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?text=RealCommang)
 
 ####  :wave: Hello World! 
+<div>
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D07DE3&title_bg=%23E0BBBB&icon=&icon_color=%23DF6C6C&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realcommang&show_icons=true&theme=radical)
+</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realcommang&show_icons=true&theme=radical)
  
 ####  ✏️ Languages
 
