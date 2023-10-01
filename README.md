@@ -3,6 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?text=RealCommang)
 
 ####  :wave: Hello World! 
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realcommang&show_icons=true&theme=radical)
  
 ####  ✏️ Languages
 
