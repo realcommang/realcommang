@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?text=RealCommang)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&animation=blink)
 
 ####  :wave: Hello World! 
 
