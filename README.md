@@ -10,7 +10,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjehtirk)](https://solved.ac/sjehtirk)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realcommang&show_icons=true&theme=cobalt)    
+    
 
 
 
