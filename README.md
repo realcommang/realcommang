@@ -43,6 +43,7 @@
 <img src="https://img.shields.io/badge/SQL-2C2255?style=for-the-badge&logo=SQL&logoColor=white">
 <img src="https://img.shields.io/badge/Python-2C2255?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-2C2255?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-2C2255?style=for-the-badge&logo=Apex&logoColor=white">
 
 ####
 
