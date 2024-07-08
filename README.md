@@ -3,8 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&animation=blink)
 
 ## 👐 Hello World! 👐
-
-![](./profile-3d-contrib/profile-gitblock.svg
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frealcommang&count_bg=%23321884&title_bg=%23B99ACA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -51,6 +49,8 @@
 <img src="https://img.shields.io/badge/Django-007ACC?style=for-the-badge&logo=Django&logoColor=white">
 
 ####
+
+![](./profile-3d-contrib/profile-gitblock.svg
 
 <img src="https://img.shields.io/badge/Eclipse-A9225C?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Android Studio-A9225C?style=for-the-badge&logo=Android Studio&logoColor=white"/>
