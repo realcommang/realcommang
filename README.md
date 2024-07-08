@@ -2,12 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&animation=blink)
 
-<br/>
-
-![](./profile-3d-contrib/profile-gitblock.svg)
-
-<br/>
-
 ## 👐 Hello World! 👐
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frealcommang&count_bg=%23321884&title_bg=%23B99ACA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -62,5 +56,9 @@
 <img src="https://img.shields.io/badge/IntelliJIDEA-A9225C?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-A9225C?style=for-the-badge&logo=PyCharm&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-A9225C?style=for-the-badge&logo=Docker&logoColor=white">
+
+<br/>
+
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 </div>
