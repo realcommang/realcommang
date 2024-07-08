@@ -1,9 +1,8 @@
 <div align="center">
 
-<div>
+![image](https://github.com/realcommang/realcommang/assets/109267635/ff23deb3-e54a-4a55-a358-6d0f45677718) 
+
 ![snake gif](https://github.com/realcommang/realcommang/blob/output/github-contribution-grid-snake.svg)
- ![image](https://github.com/realcommang/realcommang/assets/109267635/ff23deb3-e54a-4a55-a358-6d0f45677718) 
-</div>
 
 ## 👐 Hello World! 👐
 
