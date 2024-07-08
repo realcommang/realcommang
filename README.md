@@ -1,8 +1,11 @@
 <div align="center">
-    
-<img src="./profile-3d-contrib/profile-gitblock.svg" width="90%">
+
 
 ![snake gif](https://github.com/realcommang/realcommang/blob/output/github-contribution-grid-snake.svg)
+
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="90%">
+
+<br/>
 
 ## 👐 Hello World! 👐
 
