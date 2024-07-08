@@ -1,6 +1,6 @@
 <div align="center">
-
-![image](https://github.com/realcommang/realcommang/assets/109267635/ff23deb3-e54a-4a55-a358-6d0f45677718) 
+    
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="90%">
 
 ![snake gif](https://github.com/realcommang/realcommang/blob/output/github-contribution-grid-snake.svg)
 
@@ -58,9 +58,5 @@
 <img src="https://img.shields.io/badge/IntelliJIDEA-A9225C?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-A9225C?style=for-the-badge&logo=PyCharm&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-A9225C?style=for-the-badge&logo=Docker&logoColor=white">
-
-<br/>
-
-<img src="./profile-3d-contrib/profile-gitblock.svg" width="90%">
 
 </div>
