@@ -1,6 +1,12 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&animation=blink)
+
+<br/>
+
 ![](./profile-3d-contrib/profile-gitblock.svg)
+
+<br/>
 
 ## 👐 Hello World! 👐
 
