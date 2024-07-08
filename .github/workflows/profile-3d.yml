@@ -21,4 +21,4 @@ jobs:
           git config user.email "katlelo@naver.com"
           git add -A .
           git commit -m "generated"
-          git push
+          git push https://realcommang:${{ secrets.TOKEN }}@github.com/realcommang/realcommang.git
