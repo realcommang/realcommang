@@ -1,6 +1,6 @@
 <div align="center">
 
-https://www.notion.so/925e6e93db95405ab427db6519c3cd6d?pvs=4
+
 ![snake gif](https://github.com/realcommang/realcommang/blob/output/github-contribution-grid-snake.svg)
 
 <img src="./profile-3d-contrib/profile-gitblock.svg" width="90%">
