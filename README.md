@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 
 ![snake gif](https://github.com/realcommang/realcommang/blob/output/github-contribution-grid-snake.svg)
@@ -62,4 +62,4 @@
 <img src="https://img.shields.io/badge/PyCharm-A9225C?style=for-the-badge&logo=PyCharm&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-A9225C?style=for-the-badge&logo=Docker&logoColor=white">
 
-</div>
+</div> -->
