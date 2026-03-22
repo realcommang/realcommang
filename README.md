@@ -2,7 +2,7 @@
 
   <table>
     <tr>
-      <td width="30%" align="center" valign="top">
+      <td width="30%" align="center" valign="middle">
         <a href="https://solved.ac/sjehtirk">
           <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjehtirk" width="100%" />
         </a>
